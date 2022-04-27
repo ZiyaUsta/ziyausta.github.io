@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi, I am Ziya"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I hold a PhD and a MSc in Geomatic Engineering ([Karadeniz Technical University](https://www.ktu.edu.tr/en), Turkey), and a BSc in Geodesy and Photogrammetry Engineering ([Yıldız Technical University](https://www.yildiz.edu.tr/en), Turkey). 
+
+I was a short-term visiting researcher in the Geo-Spatial Analytics Lab at the [University of South Florida](www.usfsp.edu) in the United States, worked with [Barnali Dixon](https://bit.ly/2x54xLW) during my master and was a visiting researcher in the [Department of Earth Observation](https://bit.ly/3acKpWA) at the [Friedrich-Schiller-University of Jena](https://bit.ly/2x9ayaw) in Germany, worked with [Christiane Schmullius](https://bit.ly/2vutNKX) during my PhD. 
+
+Currently, I am working as an assistant professor for the [Department of Architecture and City Planning (Mapping and Cadastre Programme)](https://myo.artvin.edu.tr/harita-ve-kadastro) of [Artvin Vocational School](https://myo.artvin.edu.tr/tr) in Artvin Coruh University, Turkey. Also, I worked as a research assistant from March 2011 to June 2020 at the [Department of Geomatic Engineering](http://www.hrm.yildiz.edu.tr/en) in Yildiz Technical University, Turkey. 
+
+As an editorial task, I have been serving as an [associate editor](https://www.springer.com/journal/12517/editors) for the [Arabian Journal of Geosciences](https://www.springer.com/journal/12517).
+ 
+My main research interests include Polarimetric Synthetic Aperture Radar (PolSAR) Remote Sensing, Applied Machine Learning and particularly ensemble learning algorithms. I'm the member of [IEEE Geoscience and Remote Sensing Society](http://www.grss-ieee.org/) and [International Society for Photogrammetry and Remote Sensing](https://www.isprs.org/). I received the award for Top Reviewers for Geosciences - September 2018 from [Publons](https://publons.com/researcher/1175331/mustafa-ustuner/). I have been voluntarily working for the [IEEE Geoscience and Remote Sensing Society](http://www.grss-ieee.org/) as the social media chair as well as the social media coordinator for [ISPRS Student Consortium](http://sc.isprs.org/home.html). I was the publicity co-chair for [IGARSS 2020](https://igarss2020.org/OrganizingCommittee.asp) where serving for social media and outreach activities.
+
+Also, I have been serving as a reviewer for the following journals: IEEE Transactions on Geoscience and Remote Sensing, IEEE Geoscience and Remote Sensing Letters, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, International Journal of Remote Sensing, European Journal of Remote Sensing, Journal of Applied Remote Sensing, Remote Sensing Letters, International Journal of Applied Earth Observation and Geoinformation, Geocarto International, Computers and Electronics in Agriculture, Remote Sensing, IEEE Access, IET Image Processing, Geo-Spatial Information Science, SN Applied Sciences, Concurrency and Computation: Practice and Experience, Sensors and Turkish Journal of Remote Sensing and GIS.
 
 A data-driven personal website
 ======
@@ -48,3 +58,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
